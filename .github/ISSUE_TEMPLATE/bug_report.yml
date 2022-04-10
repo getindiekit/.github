@@ -1,0 +1,43 @@
+name: Bug report
+description: Create a report to help improve Indiekit
+title: ""
+labels: ["bug"]
+assignees: ["paulrobertlloyd"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the bug
+      description: A description of what the bug is. Add screenshots or logs to help explain your problem.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps To reproduce
+      placeholder: |
+        1. Go to '…'
+        2. Click on '…'
+        3. Scroll down to '…'
+        4. See error
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behaviour
+      description: A clear and concise description of what you expected to happen.
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Where are you using Indiekit?
+      placeholder: | 
+        * Indiekit version: [e.g. v0.1.0-alpha.9]
+        * Browser: [e.g. Chrome, Firefox, Safari]
+        * Server/host: [e.g. Heroku, DigitalOcean, DreamHost]
+        * Content store URL: [e.g. https://github.com/paulrobertlloyd/paulrobertlloyd-v4]
+        * Publication URL: [e.g. https://paulrobertlloyd.com]
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Any other information about the problem here. 
