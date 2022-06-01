@@ -4,4 +4,4 @@ Indiekit is the little server that connects your personal website to the indepen
 
 * [Get started](https://getindiekit.com/get-started/)
 * [Browse plug-ins](https://getindiekit.com/plug-ins/)
-* [Contribute](https://github.com/getindiekit/indiekit)
+* [Contribute](https://getindiekit.com/contributing/)
