@@ -1,7 +1,8 @@
-## :wave: Welcome to Indiekit
+# The IndieWeb for everyone
 
-Indiekit is the little server that connects your personal website to the independent web.
+Meet **[Indiekit](https://getindiekit.com/)**, the little Node.js server with all the parts needed to publish content to your personal website and share it on social&nbsp;networks.
 
-* [Get started](https://getindiekit.com/get-started)
-* [Browse plug-ins](https://getindiekit.com/plugins/)
-* [Contribute](https://getindiekit.com/contributing)
+✴️&nbsp;[Get started](https://getindiekit.com/get-started)&nbsp;&nbsp;&nbsp;&nbsp;
+🎒&nbsp;[Browse plug-ins](https://getindiekit.com/plugins/)&nbsp;&nbsp;&nbsp;&nbsp;
+👍&nbsp;[Contribute](https://getindiekit.com/contributing)&nbsp;&nbsp;&nbsp;&nbsp;
+💟&nbsp;[Sponsor](https://github.com/sponsors/getindiekit)
