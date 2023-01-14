@@ -1,6 +1,5 @@
 name: Bug report
 description: Create a report to help improve Indiekit
-title: ""
 labels: ["bug"]
 assignees: ["paulrobertlloyd"]
 body:
@@ -14,7 +13,7 @@ body:
   - type: textarea
     id: reproduction
     attributes:
-      label: Steps To reproduce
+      label: Steps to reproduce
       placeholder: |
         1. Go to '…'
         2. Click on '…'
@@ -31,11 +30,11 @@ body:
       label: Environment
       description: Where are you using Indiekit?
       placeholder: | 
-        * Indiekit version: [e.g. v0.1.0-alpha.9]
-        * Browser: [e.g. Chrome, Firefox, Safari]
-        * Server/host: [e.g. Heroku, DigitalOcean, DreamHost]
-        * Content store URL: [e.g. https://github.com/paulrobertlloyd/paulrobertlloyd-v4]
-        * Publication URL: [e.g. https://paulrobertlloyd.com]
+        - Indiekit version: [e.g. v1.0.0-beta.1]
+        - Browser: [e.g. Chrome, Firefox, Safari]
+        - Server/host: [e.g. Heroku, DigitalOcean, DreamHost]
+        - Content store URL: [e.g. https://github.com/paulrobertlloyd/paulrobertlloyd-v4]
+        - Publication URL: [e.g. https://paulrobertlloyd.com]
   - type: textarea
     id: additional
     attributes:

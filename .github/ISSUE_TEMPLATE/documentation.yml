@@ -1,0 +1,24 @@
+name: Documentation
+description: Suggest an improvement or clarification to Indiekit’s documentation
+labels: ["documentation"]
+assignees: ["paulrobertlloyd"]
+body:
+  - type: textarea
+    id: section
+    attributes:
+      label: What part of the documentation isn’t clear?
+      description: For example, ‘Getting started’, ‘Plug-in API’.
+    validations:
+      required: true
+  - type: textarea
+    id: improvement
+    attributes:
+      label: How could the documentation be improved?
+      description: A clear and concise description of what is not clear or what information is missing.
+    validations:
+      required: true
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Any other information you would like to add.
